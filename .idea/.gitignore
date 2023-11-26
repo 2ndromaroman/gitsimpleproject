@@ -1,3 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/build
+!/src/modules/module2/build/module2.jar
+.jar
+application-local.properties
+/idea
+/idea_copy
+!/idea_copy/workspace.xml
